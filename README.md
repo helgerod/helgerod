@@ -18,6 +18,7 @@
 </br>
 
 </br></br>
-<script src="https://tryhackme.com/badge/99611"></script>
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/helgerod.png" alt="TryHackMe">
 
 
